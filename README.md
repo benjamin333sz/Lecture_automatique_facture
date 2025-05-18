@@ -22,6 +22,6 @@ https://huggingface.co/Theivaprakasham/layoutlmv3-finetuned-invoice
 Lien vers le github :
 https://github.com/Theivaprakasham/layoutlmv3
 
-## Modèle avec le LLM Ollama :
+## Modèle avec le LLM Gemini avec le serveur Ollama :
 Nous utilisons le modèle gemma3:4b de ollama et faisons une requête pour détecter le prix.
 >>>>>>> 554188ecce5acf3d8dcabe19bb5c652dfd65a3eb
